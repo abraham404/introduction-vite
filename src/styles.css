@@ -5,3 +5,19 @@ html, body {
     font-size: 1.3rem;
     padding: 70px;
 }
+
+
+.btns{
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+}
+
+button {
+    margin: 0;
+    padding: 15px;
+    font-size: 1rem;
+    border-radius: 5px;
+    
+
+}
